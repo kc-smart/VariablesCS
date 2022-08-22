@@ -61,11 +61,13 @@ namespace VariablesCS
                 Console.WriteLine("Greetings, " + userNameTwo + ".");
             }
 
-            //Use DateTime
+            //Used DateTime Above; Converting Output
+            Console.WriteLine(today.ToString("dd-MMM-yyy"));
 
 
             /*Epic Mode*/
             //Move Code to New Method and Call Main
+
 
 
 
